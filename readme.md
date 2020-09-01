@@ -56,16 +56,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** -Mijn niveau is Blauw zou ik zelf zeggen. Vorige keer heb ik het vak net niet gehaald omdat ik een microinteractie mist. Maar als ik het gevoel heb dat ik weet wat ik doe en het een beetje wil lukken. Is coderen wel heel leuk natuurlijk. Dit komt alleen zelden tot nooit voor.-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** -Ik wil gaan focussen op de surface design. Maar ik wil ook zeker een goed responsive site proberen te maken. Maar sommige dingen die ik zou willen proberen te ontwerpen zijn misschien moeilijk goed responsive te maken.-
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -https://www.asnbank.nl/home.html-
 
 **Screenshot(s):**
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+<img src="images/asnbankHome.png"> 
+<img src="images/asnbankOverstappen.png"> 
 
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+<img src="images/breakDownSchets.jpg"> 
